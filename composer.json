@@ -1,0 +1,20 @@
+{
+    "name": "apple/composer_test",
+    "description": "aaaa",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Apple\\ComposerTest\\": "src/",
+            "numberFormat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xueyin",
+            "email": "xueyin@yaodeyuan.com"
+        }
+    ],
+    "require": {
+        "php":"^7.4"
+    }
+}
